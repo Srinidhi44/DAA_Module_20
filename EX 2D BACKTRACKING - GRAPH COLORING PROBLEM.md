@@ -14,8 +14,8 @@ To solve the Graph Coloring Problem using backtracking
 ```
 /*
 Program to implement Graph Coloring Problem using backtracking.
-Developed by: Aashika R
-Register Number:212222040001
+Developed by: Srinidhi P
+Register Number:212222040160
 */
 ```
 ```
